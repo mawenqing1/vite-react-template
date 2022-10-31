@@ -43,6 +43,5 @@ export default defineConfig({
 		react(),
 		viteEslint(),
 		StylelintPlugin(),
-	  
 	]
 });
