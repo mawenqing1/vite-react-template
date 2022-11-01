@@ -1,5 +1,5 @@
 # vite-react-template
-qing-cli vite-react-template
+mwq-cli vite-react-template
 
 #### git commit  
 
